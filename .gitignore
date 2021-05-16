@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 
 francesco_and_mohamed_analysis_it.ipynb
+diamonds.csv
+ml_utilities.py
+ml_visualization.py
+img/
